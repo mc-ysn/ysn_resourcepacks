@@ -9,5 +9,7 @@ CozyUI+原作项目地址 https://github.com/Fogg05/CozyUI-Plus
 CozyUI+以GPL-3.0协议开源，遵循协议，此项目也以GPL-3.0协议开源。
 
 注意：请将我的作品叠加在CozyUI+上面来使用！
+
 注意：请将我的作品叠加在CozyUI+上面来使用！！
+
 注意：请将我的作品叠加在CozyUI+上面来使用！！！
