@@ -1,0 +1,1 @@
+1.21.4/assets/minecraft/textures/gui/sprites/toast/system.png
