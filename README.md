@@ -1,6 +1,6 @@
 这个项目为Minecraft Java资源包CozyUI+进行1.21.11+的非官方续更。
 
-![image](other_files\ysnCEv1.4.0-26.4.png)
+![image](other_files/ysnCEv1.4.0-26.4.png)
 
 部分纹理使用了Nieobie的开源免费图标包：https://github.com/Nieobie/game-icon-pack
 
